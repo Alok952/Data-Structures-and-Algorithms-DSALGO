@@ -1,9 +1,9 @@
 Certainly! Here are the most important 36 searching and sorting interview questions:
 
 1. Find first and last positions of an element in a sorted array
-2. Find a Fixed Point (Value equal to index) in a given array
+2. Find a Fixed Point (Value equal to index) in a given array ✅
 3. Search in a rotated sorted array
-4. Square root of an integer
+4. Square root of an integer ✅ 
 5. Maximum and minimum of an array using minimum number of comparisons
 6. Optimum location of point to minimize total distance
 7. Find the repeating and the missing
@@ -13,7 +13,7 @@ Certainly! Here are the most important 36 searching and sorting interview questi
 11. Find four elements that sum to a given value
 12. Maximum sum such that no 2 elements are adjacent
 13. Count triplet with sum smaller than a given value
-14. Merge 2 sorted arrays
+14. Merge 2 sorted arrays ✅
 15. Product array Puzzle
 16. Sort array according to count of set bits
 17. Minimum no. of swaps required to sort the array
